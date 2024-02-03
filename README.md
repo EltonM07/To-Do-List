@@ -19,7 +19,7 @@ Aplicación web de lista de tareas es una herramienta simple y efectiva para org
 - JavaScript
 
 ## Instalación
-1. Clona este repositorio: `git clone https://github.com/tuusuario/tu-aplicacion.git`
+1. Clona este repositorio: `https://github.com/EltonM07/To-Do-List.git`
 2. Abre el archivo `index.html` en tu navegador.
 
 ## Uso
