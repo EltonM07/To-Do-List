@@ -25,5 +25,4 @@ Aplicación web de lista de tareas es una herramienta simple y efectiva para org
 ## Uso
 1. Agrega nuevas tareas haciendo clic en el botón "Agregar Tarea".
 2. Marca las tareas como completadas haciendo clic en la casilla correspondiente.
-3. Edita las tareas haciendo clic en el botón de edición.
 4. Elimina tareas no deseadas haciendo clic en el botón de eliminación.
